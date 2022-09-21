@@ -1,1 +1,1 @@
-# My Super Awesome Dev Team!
+# Vanessa and Sophia
