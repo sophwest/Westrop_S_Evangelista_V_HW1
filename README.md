@@ -1,6 +1,6 @@
-# Project Name
+# vanessa and sophia
 
-TODO: Write a project description
+TODO: vanessa: My name is Vanessa, I am person 2, I am not the best at coding but I am tryig to learn. This class is my favourite media design class. I like sewing,pokemon (my favourite ins mimikyu), and drawing. I hope i become better at coding in the near future.
 
 ## Installation
 
