@@ -1,4 +1,4 @@
-![oops :( img not working)](img/team_aqua.jpeg "Logo Title Text 1")
+![oops :( img not working)](img/team_aqua.jpeg "Team Aqua image")
 
 
 # TEAM AQUA
