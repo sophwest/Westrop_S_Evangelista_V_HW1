@@ -16,7 +16,7 @@ Sophia: My name is Sophia, I am person 1. I'm not experienced with coding but I'
 5. Submit a pull request :D
 
 ## Credits
-
+image provided from pokemon amino
 Template provided by Prof TVR. 
 Content created by Vanessa Evangelista and Sophia Westrop.
 
